@@ -1,6 +1,6 @@
 Name: org.osgi.annotation.versioning
 Version: 1.1.0
-Release: 1
+Release: 2
 Group: Development/Java
 Summary: An implementation of the org.osgi.annotation.versioning API
 Source0: https://repo1.maven.org/maven2/org/osgi/org.osgi.annotation.versioning/%{version}/org.osgi.annotation.versioning-%{version}-sources.jar
